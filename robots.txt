@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terada002000-debug.github.io/resos-lab-comparison/sitemap.xml

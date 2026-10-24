@@ -1,0 +1,9 @@
+/articles/*.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/resos.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
+/karen.md
+  Content-Type: text/markdown; charset=utf-8
+  X-Robots-Tag: noindex
